@@ -1,0 +1,43 @@
+# Kernel otimizado
+linux-zen
+linux-zen-headers
+
+# Base do sistema
+base
+base-devel
+nano
+vim
+sudo
+
+# Rede
+networkmanager
+
+# Xorg e ambiente gráfico
+xorg
+plasma
+sddm
+
+# Frontend console
+emulationstation
+
+# Ferramentas gamers
+steam
+wine-staging
+lutris
+flatpak
+mangohud
+gamemode
+goverlay
+corectrl
+dxvk
+lib32-faudio
+
+# Suporte a gamepads
+xpad
+steam-devices
+
+# Compartilhamento de rede
+samba
+
+# Sunshine (streaming)
+sunshine 
